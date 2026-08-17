@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Fonts: Latin declared BEFORE Noto Sans JP per SPEC §9.2.
+         JP webfont loaded as needed; EN-only readers never download it.
+         font-display: swap → system JP stack as first-paint fallback. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap"
+    />
+
+    <!-- Static <title> for crawlers and first paint. react-helmet-async
+         overrides it on hydration; if a per-page Helmet block does not set
+         a title, the static value still applies. -->
+    <title>Remus Calugarescu - Software Engineer</title>
+    <link rel="canonical" href="https://remcalu.github.io/portfolio/" />
+    <link rel="icon" type="image/png" href="/portfolio/favicon.png" />
+
+    <!-- Default meta description for crawlers that don't run JS; pages override via Helmet -->
+    <meta
+      name="description"
+      content="Remus Calugarescu is a Software Engineer at Wave in Kitchener, Canada, building full-stack product systems using Python, Django, and React."
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Remus Calugarescu - Software Engineer at Wave" />
+    <meta
+      property="og:description"
+      content="Full-stack Software Engineer at Wave in Kitchener, Ontario. Personal projects, employment history, and five dated workterm retrospectives."
+    />
+    <meta property="og:url" content="https://remcalu.github.io/portfolio/" />
+    <meta property="og:image" content="https://remcalu.github.io/portfolio/og/default.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="alternate" type="application/rss+xml" title="Remus Calugarescu - Writing" href="https://remcalu.github.io/portfolio/rss.xml" />
+    <meta name="twitter:title" content="Remus Calugarescu - Software Engineer at Wave" />
+    <meta
+      name="twitter:description"
+      content="Full-stack Software Engineer at Wave in Kitchener, Ontario. Personal projects, employment history, and five dated workterm retrospectives."
+    />
+    <meta name="twitter:image" content="https://remcalu.github.io/portfolio/og/default.png" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Remus Calugarescu",
+        "jobTitle": "Software Engineer at Wave",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Wave",
+          "url": "https://waveapps.com/"
+        },
+        "email": "mailto:remuscalugarescu@outlook.com",
+        "url": "https://remcalu.github.io/portfolio/",
+        "sameAs": [
+          "https://github.com/remcalu",
+          "https://www.linkedin.com/in/remuscalugarescu/"
+        ],
+        "knowsLanguage": ["en", "ro", "ja"],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kitchener",
+          "addressRegion": "ON",
+          "addressCountry": "CA"
+        },
+        "alumniOf": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Guelph"
+        }
+      }
+    </script>
+    <script type="module" crossorigin src="/portfolio/assets/index-0SSQKI4P.js"></script>
+    <link rel="modulepreload" crossorigin href="/portfolio/assets/rolldown-runtime-Bh1tDfsg.js">
+    <link rel="modulepreload" crossorigin href="/portfolio/assets/helmet-CDGZepW6.js">
+    <link rel="modulepreload" crossorigin href="/portfolio/assets/react-Djg-z0eg.js">
+    <link rel="modulepreload" crossorigin href="/portfolio/assets/router-16r4macJ.js">
+    <link rel="stylesheet" crossorigin href="/portfolio/assets/index-CgNQ9IY-.css">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <main class="container container--prose" style="padding-top: var(--space-8); padding-bottom: var(--space-12); font-family: var(--font-body, sans-serif); color: var(--color-text-primary, #0F1419);">
+        <h1 style="font-family: var(--font-display, sans-serif);">Remus Calugarescu</h1>
+        <p>Software Engineer at Wave in Kitchener, Ontario. Studying Japanese daily, working toward N1 and fluency.</p>
+        <p>Email: <a href="mailto:remuscalugarescu@outlook.com">remuscalugarescu@outlook.com</a>.</p>
+        <p>This site is a small interactive portfolio. With JavaScript disabled, only the headline and contact details are visible. The full content (work, projects, writing, Japanese summary) is available in the <a href="https://github.com/remcalu/personal-website-v3">public repository</a>.</p>      </main>
+    </noscript>
+  </body>
+</html>
