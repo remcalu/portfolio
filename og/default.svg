@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#EFEFEC"/>
+  <!-- Eyebrow -->
+  <text x="80" y="140" font-family="JetBrains Mono, ui-monospace, monospace" font-size="28" letter-spacing="3" fill="#525C6B" text-transform="uppercase">SOFTWARE ENGINEER</text>
+  <!-- Name -->
+  <text x="80" y="260" font-family="JetBrains Mono, ui-monospace, monospace" font-weight="700" font-size="96" letter-spacing="-2" fill="#0F1419">Remus Calugarescu</text>
+  <!-- Role -->
+  <text x="80" y="330" font-family="JetBrains Mono, ui-monospace, monospace" font-size="40" fill="#525C6B">Software Engineer at Wave</text>
+  <!-- Footer line -->
+  <text x="80" y="560" font-family="JetBrains Mono, ui-monospace, monospace" font-size="26" fill="#525C6B">github.com/remcalu · linkedin.com/in/remuscalugarescu</text>
+</svg>

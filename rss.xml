@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remus Calugarescu - Writing</title>
+    <link>https://remcalu.github.io/portfolio/writing/</link>
+    <atom:link href="https://remcalu.github.io/portfolio/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Technical posts - full-stack work, handoffs, lessons learned.</description>
+    <language>en</language>
+    <item>
+      <title>Wave workterm retrospective</title>
+      <link>https://remcalu.github.io/portfolio/writing/wave-workterm/</link>
+      <guid>https://remcalu.github.io/portfolio/writing/wave-workterm/</guid>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>Vidyard workterm retrospective</title>
+      <link>https://remcalu.github.io/portfolio/writing/vidyard-workterm/</link>
+      <guid>https://remcalu.github.io/portfolio/writing/vidyard-workterm/</guid>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>CloudOps workterm retrospective</title>
+      <link>https://remcalu.github.io/portfolio/writing/cloudops-workterm/</link>
+      <guid>https://remcalu.github.io/portfolio/writing/cloudops-workterm/</guid>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>NCR workterm retrospective</title>
+      <link>https://remcalu.github.io/portfolio/writing/ncr-workterm/</link>
+      <guid>https://remcalu.github.io/portfolio/writing/ncr-workterm/</guid>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>Nymion Solutions workterm retrospective</title>
+      <link>https://remcalu.github.io/portfolio/writing/nymion-solutions-workterm/</link>
+      <guid>https://remcalu.github.io/portfolio/writing/nymion-solutions-workterm/</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+      <description></description>
+    </item>
+  </channel>
+</rss>
